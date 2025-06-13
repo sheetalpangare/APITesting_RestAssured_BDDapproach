@@ -6,7 +6,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 
-@CucumberOptions(features="src/test/resources/features",glue= {"stepDefinitions"})
+@CucumberOptions(features="src/test/resources/FeatureFiles",glue= {"stepDefinitions"})
 
 public class Runner {
 
