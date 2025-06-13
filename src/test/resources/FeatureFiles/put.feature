@@ -1,4 +1,4 @@
-Feature: Put Opeartion - update User Details
+Feature: Put Opeartion - update User 
 
 Scenario: Verify that the put API to update user details
 Given user hit the url of put user API endpoint
