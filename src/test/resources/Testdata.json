@@ -1,0 +1,14 @@
+[{
+		"userFirstName": "Tommy",
+		"userLastName": "Jackson",
+		"userContactNumber": 9110019544,
+		"userEmailId": "team9SP@gmail.com",
+		"userAddress": {
+		        "plotNumber": "cc-k90",
+		        "street": "Parma",
+		        "state": "OH",
+		        "country": "USA",
+		        "zipCode": 44130
+				}
+	}
+]
