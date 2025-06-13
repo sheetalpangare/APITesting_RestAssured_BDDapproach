@@ -35,12 +35,10 @@ public class PutRequest {
 		 requestParams.put("userEmailId","team09P@gmail.com");                        
 		                  
 		httpRequest.header("Content-Type","application/json");
-		                  
 		httpRequest.body(requestParams.toString());                       
 		
 		Response response=httpRequest.put("updateuser");
 		String responseBody=response.getBody().asString();
-		
 		System.out.println("Response Body is:"+responseBody);
 	   
 	}
