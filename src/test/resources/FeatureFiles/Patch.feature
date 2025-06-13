@@ -1,4 +1,4 @@
-Feature: Patch Opeartion - update User Details
+Feature: Patch Opeartion - update User 
 
 Scenario: Verify that the patch API to update user details
 Given user hit the url of patch user API endpoint
