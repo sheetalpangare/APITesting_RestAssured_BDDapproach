@@ -1,4 +1,4 @@
-Feature: Delete Opeartion - delete User Details
+Feature: Delete Opeartion - delete User 
 
 Scenario: Verify that the delete API to update user details
 Given user hit the url of delete user API endpoint
